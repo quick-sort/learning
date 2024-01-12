@@ -1,7 +1,7 @@
 # Frontend To-learning List
 
 
-- [] Tailwind
-- [] CSS
+- [ ] Tailwind
+- [ ] CSS
 - [x] Typescript
 - [x] React

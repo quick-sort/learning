@@ -7,3 +7,6 @@ nav:
   - Home: index.md
   - ToDo:
     - Frontend: todo/frontend.md
+    - AI: todo/ai.md
+markdown_extensions:
+  - md_in_html
