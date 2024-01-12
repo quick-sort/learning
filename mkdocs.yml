@@ -1,0 +1,9 @@
+site_name: Learning
+theme:
+  name: material
+  features:
+    - navigation.tabs
+nav:
+  - Home: index.md
+  - ToDo:
+    - Frontend: todo/frontend.md
